@@ -1,2 +1,2 @@
 # Logos-Rights
-If you use any of our softwares/codes/logos, you'll have to make them open source.
+📚 ShellCats logos are under <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.en_US">Creative Commons Attribution-NonCommercial 4.0 International Public License</a>.
